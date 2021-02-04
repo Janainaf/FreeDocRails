@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thanks for reading me. Here is the FreeDoc project - and I am sorry I could not put all projects in one repository.
 
-Things you may want to cover:
+## Had some issues commiting all folder into one repository - trying to figure out why
+### Also, did not remove specialities from the table
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
